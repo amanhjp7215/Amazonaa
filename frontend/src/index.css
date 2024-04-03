@@ -29,7 +29,11 @@ main {
 .Products {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: center;+
+}
+
+.rating span {
+  color: rgb(16, 155, 16);
 }
 
 .rating span {
@@ -47,8 +51,4 @@ main {
 
 .Product-info {
   padding: 1rem;
-}
-
-.img-large {
-  max-width: 100%;
 }
