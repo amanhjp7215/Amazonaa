@@ -29,7 +29,7 @@ main {
 .Products {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;+
+  justify-content: center;
 }
 
 .rating span {
